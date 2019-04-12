@@ -1,3 +1,6 @@
+Settings Sync
+https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
+
 Python
 https://marketplace.visualstudio.com/items?itemName=ms-python.python
  

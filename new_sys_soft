@@ -1,0 +1,26 @@
+#локальное время
+timedatectl set-local-rtc 1 --adjust-system-clock
+ 
+#soft install 
+sudo apt install 
+
+mc
+latte-dock
+
+git
+git-flow
+python3.7
+python-pip
+python3-pip
+
+openjdk-8-jdk
+
+#PyCharm Pro
+sudo snap install pycharm-professional --classic
+
+#deb's
+google chrome
+xmind-linux-3.5.3.201506180105_amd64
+code
+gitkraken
+

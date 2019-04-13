@@ -24,3 +24,5 @@ xmind-linux-3.5.3.201506180105_amd64
 code
 gitkraken
 
+#pip3 problem
+https://stackoverflow.com/questions/49836676/error-after-upgrading-pip-cannot-import-name-main

@@ -1,0 +1,17 @@
+[color]
+    ui = auto
+[user]
+    name = Фамилия Имя Отчество
+    email = корпоративный_ящик@magnit.ru
+[merge]
+    ff = false # обязательно! _запрещены_ мерджи с fast-forward
+    keepbackup = false
+[push]
+    default = current
+[pull]
+    default = current
+    ff = only # опционально, чтобы при пуле не засорял историю мерджами
+[http]
+    sslVerify = false # чтобы не ругалось на сертификаты
+[core]
+    autocrlf = false # чтобы не конвертировались переносы строк
